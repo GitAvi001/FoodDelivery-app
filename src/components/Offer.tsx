@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import CountDown from "./CountDown";
+import CountDown from "./Countdown";
 
 const Offer = () => {
   return (
